@@ -1,0 +1,17 @@
+Part 1:
+We called, planned the assignment, and delegated
+Jesse coded DELETE
+Max coded GET
+Alyssa coded PUT
+
+After we worked on each part, we reviewed them together and decided on a singular style
+
+We all helped fixed bugs for part one
+
+Part 2:
+Jesse wrote most of the forwarding code
+Max did most of the bugging
+
+Other items:
+Alyssa wrote contribution notes, members, Dockerfile
+We all tested the code on our own machines
